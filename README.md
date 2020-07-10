@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**victorgfb/victorgfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Victor Gabriel Ferreira Barbosa
 
-Here are some ideas to get you started:
+Hello 😄! I'm Victor, a computer engineering student passionate about artificial intelligence and the internet of things, currently vice president of IEEE RAS UNIVASF (Student Chapter of Robotics and Automation).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Awards
+
+2020 - Member of the group awarded in the third place in the Sebraelab Online Challenge, Sebrae.
+
+2019 - Member of the winning team of the "Embedded Systems Competition 2019 - Macnica DHW & Analog Devices IoT Challenge", Brazilian Symposium on Computing Systems Engineering.
+
+#### Lattes
+
+http://lattes.cnpq.br/9494132252733240
+
+#### Gitlab
+
+https://gitlab.com/victorgfb
+
